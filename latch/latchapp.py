@@ -18,7 +18,7 @@
 '''
 import time
 
-from latchauth import LatchAuth
+from latch.latchauth import LatchAuth
 
 
 class LatchApp(LatchAuth):
